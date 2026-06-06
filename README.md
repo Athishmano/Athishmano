@@ -4,7 +4,7 @@ I'm a Computer Science Engineer specializing in full-stack web development, pass
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athish7)
-[![Portfolio](https://img.shields.io/badge/Website-000000?logo=firefoxbrowser&logoColor=white)](https://athishmano.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefoxbrowser&logoColor=white)](https://athishmano.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athishmano7@gmail.com)
 
 # 💻 Tech Stack:
